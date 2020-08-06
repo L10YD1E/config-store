@@ -1,2 +1,3 @@
-application: 1
-env: none
+spring:
+  application:
+    name: application1
